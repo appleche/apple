@@ -1,0 +1,64 @@
+
+
+
+
+body{
+     margin: 0 ;
+     padding: 0 ;
+}
+
+hr{
+    border-top: 10px dotted white ;
+    border-bottom: none ;
+    border-left: none ;
+    border-right: none ;
+
+    margin: 30px 0 ;
+}
+
+.introduce{
+    padding: 50px 100px;
+    color: black;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: lightgoldenrodyellow;
+
+}
+
+
+
+
+.background{
+    padding: 50px 100px;
+    color: black;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: lightsalmon;
+}
+
+.skill{
+    padding: 50px 100px;
+    color: black;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: lightseagreen;
+}
+
+.personality{
+    padding: 50px 100px;
+    color: black;
+    box-sizing: border-box;
+    min-height: 100vh;
+    background-color: lightcoral;
+}
+
+img{
+    height: 300px;
+    display: float ;
+    float: right ;
+}
+
+h2{
+   position: sticky ;
+   top: 0 ;
+}
